@@ -1,3 +1,3 @@
 # JBoss Forge Users Guide
 
-This is the JBoss Forge users guide
+Learn how to make your IDE fun again!
